@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">PPGReader</string>
+    <string name="read_ppg">Ready</string>
+    <string name="ppg_reader">PPG Reader</string>
+</resources>
